@@ -15,7 +15,7 @@ Outputs the scraped data in a readable format (console, CSV, or file).
 
 Easy to run via the terminal.
 
-Requirements
+# Requirements
 Python 3.x
 
 requests library (for sending HTTP requests)
@@ -24,7 +24,7 @@ BeautifulSoup library (for parsing HTML)
 
 pandas (optional, for data storage in CSV format)
 
-You can install the required libraries by running:
+# You can install the required libraries by running:
 
 ```python
 pip install requests beautifulsoup4 pandas
